@@ -8,9 +8,9 @@ int main(void) {
     x |= (1 << 3);
     // 5. biti aç
     x |= (1<<5);
-    // 3. biti kapat
 
-    // sonucu yazdır
+
+
     printf("%d", x);
     return 0;
 }
